@@ -1,5 +1,13 @@
 ## ¡Hola! 👋  
-### Data Scientist | Applied Machine Learning | Computer Vision  
+### Data Scientist | Applied Machine Learning | Computer Vision
+<p <div align="center">
+  <div style="width: 300px; height: 300px; overflow: hidden; border-radius: 50%; display: flex; justify-content: center; align-items: center;">
+    <img src="image-9a57ffb7-d262-4f5f-80e0-722becf1429e.png" style="width: auto; height: 100%; min-width: 100%;">
+  </div>
+</div>
+</p>
+
+
 **BA Economic Cybernetics · MS Computer Science**
 
 ---
