@@ -3,7 +3,8 @@
 
 Building and evaluating ML systems for real-world applications
 
-**BA Economic Cybernetics · MS Computer Science**
+**Bachelor’s Degree — Economics (Economic Cybernetics)**  
+**Master’s Degree — Computer Science**
 
 <p align="center">
   <img src="image-9a57ffb7-d262-4f5f-80e0-722becf1429e(1)(1).png" width="600"/>
@@ -15,13 +16,13 @@ Building and evaluating ML systems for real-world applications
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/mariia-lytvyniuk-80b903364/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:mlaysmlay@gmail.com">
     <img src="https://img.shields.io/badge/Email-555555?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://wa.me/yourphonenumber">
+  <a href="https://wa.me/0634315033">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
