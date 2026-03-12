@@ -1,7 +1,6 @@
-## ¡Hola! 👋  
-### Data Scientist | Applied Machine Learning | Computer Vision
 
-Building and evaluating ML systems for real-world applications
+## Data Scientist | Quantitative Finance & Machine Learning | Python.
+
 
 **Bachelor’s Degree — Economics (Economic Cybernetics)**  
 **Master’s Degree — Computer Science**
@@ -31,11 +30,9 @@ Building and evaluating ML systems for real-world applications
 
 ## 🛠 Skills & Technologies
 
-### 🤖 Machine Learning & Computer Vision
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+### 📊 Quantitative & Financial
+![scipy](https://img.shields.io/badge/scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-v8%20%7C%20v12-00FFFF?style=for-the-badge&logo=python&logoColor=black)
 
 ---
 
@@ -47,7 +44,13 @@ Building and evaluating ML systems for real-world applications
 
 ---
 
-### 📊 Visualization & Analysis
+### 🤖 Machine Learning & Computer Vision
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-v8%20%7C%20v12-00FFFF?style=for-the-badge&logo=python&logoColor=black)
+
+---
+### 📈 Visualisation & Analysis
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
@@ -55,17 +58,22 @@ Building and evaluating ML systems for real-world applications
 
 ### ⚙️ Tools & Environment
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Basic-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-Basic-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
 ![Google%20Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
 ## 🚀 Selected Projects
 
-- **[YOLOv8 Segmentation Optimization](https://github.com/marieltv/yolov8-seg-modified)**  
-  Hyperparameter optimization, cross-validation, custom loss functions, GPU-aware training
+**[Portfolio Optimisation — Out-of-Sample Evaluation](https://github.com/marieltv/portfolio_optimization)**  
+Rolling walk-forward backtest comparing Equal Weight, Minimum Variance, Risk Parity, and Regularised Max Sharpe on US defence equities. Includes predicted vs actual Sharpe/Sortino analysis, Ledoit-Wolf and James-Stein shrinkage estimators, and an interactive Streamlit dashboard.  
+`Python` · `scipy` · `pandas` · `scikit-learn` · `Streamlit` · `Plotly` · `GitHub Actions`
+
+**[YOLOv8 Segmentation Optimisation](https://github.com/marieltv/yolov8-seg-modified)**  
+Hyperparameter optimisation, cross-validation, custom loss functions, GPU-aware training.  
+`PyTorch` · `OpenCV` · `YOLO`
 
 ---
 ## 🌱 Outside of Work
