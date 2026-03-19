@@ -78,6 +78,6 @@ Hyperparameter optimisation, cross-validation, custom loss functions, GPU-aware 
 ---
 ## 🌱 Outside of Work
 
-- Health, fitness, and well-being 🌿
+- Health and well-being 🌿
 - Classical music and the arts 🎻
 
