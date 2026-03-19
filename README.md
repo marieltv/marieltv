@@ -68,7 +68,7 @@
 Rolling walk-forward backtest comparing Equal Weight, Minimum Variance, Risk Parity, and Regularised Max Sharpe on US defence equities. Includes predicted vs actual Sharpe/Sortino analysis, Ledoit-Wolf and James-Stein shrinkage estimators, and an interactive Streamlit dashboard.  
 `Python` · `scipy` · `pandas` · `scikit-learn` · `Streamlit` · `Plotly` · `GitHub Actions`
 
-**[IRRBB Model](https://github.com/marieltv/IRRBB_model)**
+**[IRRBB Regulatory Model — EVE & NII Sensitivity · Basel III / BCBS 368](https://github.com/marieltv/IRRBB_model)**
 <br>Python implementation of the BCBS 368 IRRBB standardised framework — EVE & NII sensitivity across 6 prescribed shock scenarios, 19 repricing buckets, full cash flow discounting, Streamlit dashboard.
 <br>`Python`· `numpy`· `pandas` ·  `Streamlit` · `Plotly` · `GitHub Actions`
 
