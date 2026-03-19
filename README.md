@@ -1,5 +1,5 @@
 
-## Data Scientist | Quantitative Finance & Machine Learning | Python.
+## Data Scientist | ML & Risk Modelling | Finance | Python.
 
 
 **Bachelor’s Degree — Economics (Economic Cybernetics)**  
