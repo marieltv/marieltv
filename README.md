@@ -1,5 +1,5 @@
 
-## Data Scientist | ML & Risk Modelling | Finance | Python.
+## Data Scientist | Aplies AI & ML | Finance & Risk analytics
 
 
 **Bachelor’s Degree — Economics (Economic Cybernetics)**  
