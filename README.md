@@ -1,27 +1,8 @@
 
-## Data Scientist | Aplies AI & ML | Finance & Risk analytics
+## AI/ML Engineer | Computer Vision | Quantitative Finance | Python
 
 
-**Bachelor’s Degree — Economics (Economic Cybernetics)**  
-**Master’s Degree — Computer Science**
-
-<p align="center">
-  <img src="image-9a57ffb7-d262-4f5f-80e0-722becf1429e(1)(1).png" width="600"/>
-</p>
-
-
-<p align="center">
-  📫 <strong>Contact me</strong>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mariia-lytvyniuk-80b903364/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:mlaysmlay@gmail.com">
-    <img src="https://img.shields.io/badge/Email-555555?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+**Bachelor’s Degree — Economics (Economic Cybernetics) &  Master’s Degree — Computer Science**
 
 ---
 
@@ -75,6 +56,20 @@ Rolling walk-forward backtest comparing Equal Weight, Minimum Variance, Risk Par
 **[YOLOv8 Segmentation Optimisation](https://github.com/marieltv/yolov8-seg-modified)**  
 Hyperparameter optimisation, cross-validation, custom loss functions, GPU-aware training.  
 `PyTorch` · `OpenCV` · `YOLO`
+
+---
+<p align="center">
+  📫 <strong>Contact me</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mariia-lytvyniuk-80b903364/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mlaysmlay@gmail.com">
+    <img src="https://img.shields.io/badge/Email-555555?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 ## 🌱 Outside of Work
