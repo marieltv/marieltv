@@ -50,17 +50,21 @@
 
 ## 🚀 Selected Projects
 
+**[RAG Document Q&A ](https://github.com/marieltv/rag_assistant)**
+<br>End-to-end RAG pipeline with format-aware chunking (PDF, DOCX, CSV, TXT), cross-encoder reranking over FAISS, and per-citation confidence scores. 30 unit tests, deployed to Streamlit Cloud.
+<br>`Python` · `LangChain` · `FAISS` · `FastAPI` · `Streamlit` · `OpenAI` 
+
+**[YOLOv8 Segmentation Optimisation](https://github.com/marieltv/yolov8-seg-modified)**  
+Fine-tuned YOLOv8 for ship instance segmentation in SAR satellite imagery — built a custom attention module and Focal-Tversky loss, optimised via NSGA-II with 5-fold CV, achieving +1% improvement in mask mAP50-95 over the baseline.
+<br>`Python` · `NumPy` · `YOLO` · `Ultralytics` · `OpenCV` · `PyTorch` ·  `Albumentations` · `DEAP `
+
 **[Portfolio Optimisation — Out-of-Sample Evaluation](https://github.com/marieltv/portfolio_optimization)**  
 Rolling walk-forward backtest comparing Equal Weight, Minimum Variance, Risk Parity, and Regularised Max Sharpe on US defence equities. Includes predicted vs actual Sharpe/Sortino analysis, Ledoit-Wolf and James-Stein shrinkage estimators, and an interactive Streamlit dashboard.  
 `Python` · `scipy` · `pandas` · `scikit-learn` · `Streamlit` · `Plotly` · `GitHub Actions`
 
-**[IRRBB Model · Basel III / BCBS 368](https://github.com/marieltv/IRRBB_model)**
-<br>Python implementation of the BCBS 368 IRRBB standardised framework — EVE & NII sensitivity across 6 prescribed shock scenarios, 19 repricing buckets, full cash flow discounting, Streamlit dashboard.
-<br>`Python`· `numpy`· `pandas` ·  `Streamlit` · `Plotly` · `GitHub Actions`
 
-**[YOLOv8 Segmentation Optimisation](https://github.com/marieltv/yolov8-seg-modified)**  
-Hyperparameter optimisation, cross-validation, custom loss functions, GPU-aware training.  
-`PyTorch` · `OpenCV` · `YOLO`
+
+
 
 ---
 <p align="center">
